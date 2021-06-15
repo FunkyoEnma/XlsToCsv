@@ -30,3 +30,35 @@ This program converts a file in Xls format to Csv Format
 	>	 - `XlsToCsv.py --xls=C:\XlsToCsv\test.xls --log=True`
 	
 	***This parameter is*** **False** ***by default.***<br/><br/>
+
+- **SavaPath**: "savepath", "sp", "logsp", "logsavePath"<br/>
+  This parameter is the **Log Directory** and is optional, and same as previus parametes You may use (parameter, -parameter, --parameter)=value
+	
+	> For example:
+	>   - `XlsToCsv.py input=C:\XlsToCsv\test.xls logsp=C:\XlsToCsvLogs`
+	>   - `XlsToCsv.py --xls=C:\XlsToCsv\test.xls --sp=C:\XlsToCsvLogs`
+
+	***If the output value is empty or not provided, it will be saved in a subfolder where the program is running.***<br/><br/>
+
+- **Verbosity**: "verbosity", "verb", "vl", "v", "lv"<br/>
+  This parameter is the **Log Verbosity** and is optional, and same as previus parametes You may use (parameter, -parameter, --parameter)=value[1-3]
+	
+	> For example:
+	>   - `XlsToCsv.py input=C:\XlsToCsv\test.xls verb=2`
+	>   - `XlsToCsv.py --xls=C:\XlsToCsv\test.xls --v=2`
+
+	***This parameter is*** **2** ***by default.***<br/><br/>
+	
+# Made by
+    First than all sorry for the spanglish and soryy if my english is too bad, i'm trying to learn 🥰.
+    Program maid by **Funkyo Alejandra** -2021
+
+## Social Networks
+
+    **Disclaimer**
+    - I usualy speak spanish
+    - I'm a 🏳‍⚧(Trans) Girl 🥰
+    **end of the disclaimer**
+    
+    All my social networks: https://linktr.ee/FunkyoEnma
+    
