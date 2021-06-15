@@ -19,7 +19,7 @@ class Confirm:
         self._log.log("Argsv check starts", 2)
         self.__argsv = args
         self.__input = ["input", "in", "xls", "i", "entrada"]
-        self.__output = ["output", "out", "xlsx", "o", "salida"]
+        self.__output = ["output", "out", "csv", "o", "salida"]
         self.__save = ["save", "saving", "s", "loggging", "log", "l"]
         self.__savePath = ["savepath", "sp", "logsp", "logsavePath"]
         self.__verbosity = ["verbosity", "verb", "vl", "v", "lv"]
