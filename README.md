@@ -1,4 +1,4 @@
-XLS TO CSV CONVERTER
+# **XLS TO CSV CONVERTER**
 
 This program converts a file in Xls format to Csv Format
 
@@ -50,15 +50,15 @@ This program converts a file in Xls format to Csv Format
 	***This parameter is*** **2** ***by default.***<br/><br/>
 	
 # Made by
-    First than all sorry for the spanglish and soryy if my english is too bad, i'm trying to learn 🥰.
-    Program maid by **Funkyo Alejandra** -2021
+First than all sorry for the spanglish and soryy if my english is too bad, i'm trying to learn 🥰.
+Program maid by **Funkyo Alejandra** -2021
 
 ## Social Networks
 
-    **Disclaimer**
-    - I usualy speak spanish
-    - I'm a 🏳‍⚧(Trans) Girl 🥰
-    **end of the disclaimer**
+**Disclaimer**
+  - I usualy speak spanish
+  - I'm a 🏳‍⚧(Trans) Girl 🥰
+**end of the disclaimer**
     
-    All my social networks: https://linktr.ee/FunkyoEnma
+All my social networks: https://linktr.ee/FunkyoEnma
     
