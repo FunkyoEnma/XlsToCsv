@@ -56,7 +56,7 @@ Program maid by **Funkyo Alejandra** -2021
 ## Social Networks
 
 **Disclaimer**
-  - I usualy speak spanish
+  - I usually speak spanish
   - I'm a 🏳‍⚧(Trans) Girl 🥰
 **end of the disclaimer**
     
